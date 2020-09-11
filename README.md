@@ -20,5 +20,5 @@ C = Conversion rate to sales in decimals
 CostPerLead.ipynb
 
 ### Requirements
-Juptyr Notebook
+Jupyter Notebook
 
